@@ -1,0 +1,113 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+test
+</name>
+</assembly>
+<members>
+<member name="T:test.My.MyWebExtension">
+ <summary>
+ 對於 Web 專案定義 My Namespace 中可用內容所用的模組。
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:test.My.MyWebExtension.Computer">
+ <summary>
+ 傳回關於主機電腦的資訊。
+ </summary>
+</member>
+<member name="P:test.My.MyWebExtension.User">
+ <summary>
+ 傳回關於目前 Web 使用者的資訊。
+ </summary>
+</member>
+<member name="P:test.My.MyWebExtension.Request">
+ <summary>
+ 傳回 Request 物件。
+ </summary>
+</member>
+<member name="P:test.My.MyWebExtension.Response">
+ <summary>
+ 傳回 Response 物件。
+ </summary>
+</member>
+<member name="P:test.My.MyWebExtension.Log">
+ <summary>
+ 傳回 Asp 記錄物件。
+ </summary>
+</member>
+<member name="F:test.SiteMaster._MainContent">
+<summary>
+MainContent 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移至程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:test.test._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:test.Site_Mobile._Head1">
+<summary>
+Head1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置 (Code-Behind) 檔案。
+</remarks>
+</member>
+<member name="F:test.Site_Mobile._HeadContent">
+<summary>
+HeadContent 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置 (Code-Behind) 檔案。
+</remarks>
+</member>
+<member name="F:test.Site_Mobile._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置 (Code-Behind) 檔案。
+</remarks>
+</member>
+<member name="F:test.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置 (Code-Behind) 檔案。
+</remarks>
+</member>
+<member name="F:test.Site_Mobile._MainContent">
+<summary>
+MainContent 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置 (Code-Behind) 檔案。
+</remarks>
+</member>
+<member name="F:test.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置 (Code-Behind) 檔案。
+</remarks>
+</member>
+</members>
+</doc>
